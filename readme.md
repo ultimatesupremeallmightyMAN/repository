@@ -1,0 +1,1 @@
+ok hva i sigmaen.
