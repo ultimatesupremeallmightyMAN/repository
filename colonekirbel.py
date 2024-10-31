@@ -1,1 +1,0 @@
-print("hva i alle sigmaer")
